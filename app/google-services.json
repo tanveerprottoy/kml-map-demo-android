@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "905626666918",
+    "firebase_url": "https://kml-map-demo.firebaseio.com",
+    "project_id": "kml-map-demo",
+    "storage_bucket": "kml-map-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905626666918:android:4f1fdc2b802ceb3c8a3167",
+        "android_client_info": {
+          "package_name": "com.tanveershafeeprottoy.kmlmapdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905626666918-1k7pvo82fdqm5cpl3ek06n6g6ukl7vak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tanveershafeeprottoy.kmlmapdemo",
+            "certificate_hash": "bf4ed4ae601943a7b1c4ea7004f1bca49e99faf7"
+          }
+        },
+        {
+          "client_id": "905626666918-35k4ipjjbldtse96oqii0jkmva923t2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdgTF5sR370aFaxEQD5U1GCJ-ri0B0j2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905626666918-35k4ipjjbldtse96oqii0jkmva923t2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
